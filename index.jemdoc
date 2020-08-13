@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Shuo Yang | Shanghai Jiao Tong University  杨烁 |</title>
+<title>Shuo Yang | Shanghai Jiao Tong University  杨烁 |</title><META Name="keywords" Content="Xiao Yu, Control, Multi robot, Mobile robot, Multi agent, Xiamen University, 喻骁, 控制, 自动化, 多智能体, 多机器人, 移动机器人, 厦门大学" />
 
 <!--Announced by Visual SiteBuilder 9-->
 <link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
@@ -24,7 +24,12 @@
 </div>
 <table class="imgtable"><tr><td>
 <img src="xiao_yu.jpg" alt="" width="162px" height="216px" />&nbsp;</td>
-<td align="left"><p>Shuo Yang 杨烁 <br /></p>
+<td align="left"><p>Xiao Yu 喻骁 <br /></p>
+<p>                    特任研究员<br /></p>
+<p>Associate Professor 副教授 <br /></p>
+<p><a href="https://auto.xmu.edu.cn/">Department of Automation</a>  自动化系<br /></p>
+<p><a href="http://www.xmu.edu.cn/">Xiamen University</a>           厦门大学<br /></p>
+<p>Email:  <a href="mailto:xiaoyu@xmu.edu.cn">xiaoyu@xmu.edu.cn</a><br /></p>
 </td></tr></table>
 <h2>Research Interests</h2>
 <ul>
@@ -38,20 +43,175 @@
 </li>
 </ul>
 <h2>Experience</h2>
+<ul>
+<li><p>Dec. 2019&ndash;Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Associate Professor</i>, <a href="http://auto.xmu.edu.cn">Department of Automation</a>, <a href="http://www.xmu.edu.cn/">Xiamen University</a>, Xiamen, China<br /></p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p>Jan. 2018&ndash;Dec. 2019 &nbsp;&nbsp;&nbsp;&nbsp;<i>Assistant Professor</i>, <a href="http://www.automation.sjtu.edu.cn/">Department of Automation</a>, <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, Shanghai, China<br /></p>
+</li>
+</ul>
 
 <h2>Education</h2>
+<ul>
+<li><p>Sep. 2013&ndash;Feb. 2017 &nbsp;&nbsp;&nbsp;&nbsp;<i>Ph.D</i>., <a href="http://www.cityu.edu.hk/mbe/">Department of Mechanical and Biomedical Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, Hong Kong SAR, China<br /></p>
+<ul>
+<li><p>Supervisors: <a href="http://www.cityu.edu.hk/bme/luliu45/">Prof. Lu Liu</a>,  <a href="http://www.cityu.edu.hk/bme/megfeng/">Prof. Gang Feng</a><br /></p>
+</li>
+</ul>
 
-<h2>Publications 
+</li>
+</ul>
+<ul>
+<li><p>Sep. 2010&ndash;June 2013 &nbsp;&nbsp;&nbsp;<i>M.E.</i>, <a href="http://auto.xmu.edu.cn/a/index.asp">Control Engineering</a>, <a href="http://www.xmu.edu.cn/">Xiamen University</a>, Xiamen, China<br /></p>
+<ul>
+<li><p>Supervisor: <a href="http://aerospace.xmu.edu.cn/xw/Teacher.aspx?ID=18">Prof. Weiyao Lan</a><br /></p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p>Sep. 2006&ndash;June 2010 &nbsp;&nbsp;&nbsp;<i>B.S.</i>,  <a href="http://dqxy.swjtu.edu.cn/">Electrical Engineering and Automation</a>, <a href="http://www.swjtu.edu.cn/">Southwest Jiaotong University</a>, Chengdu, China<br /></p>
+</li>
+</ul>
+<h2>Research Grants</h2>
+<ul>
+<li><p><b>PI</b>, Distributed Control of Multiple Mobile Robots With Local Measurements for Target-Enclosing Circular Formation, National
+Natural Science Foundation of China (Grant No. 61803262), <i>CNY 250K</i>, 2019.01&ndash;2021.12.</p>
+</li>
+<li><p><b>PI</b>, Xiamen University Research Startup Fund for Nanqiang Top-Notch Young Scholar Support Program Category B  (厦门大学南强青年拔尖人才B类), <i>CNY 1,500K</i>, 2019.12&ndash;2024.12.</p>
+</li>
+</li>
+<li><p><b>PI</b>, Foundation of Key Laboratory of System Control and Information Processing, Ministry of Education, P.R. China, <i>CNY 50K</i>, 2020.01&ndash;2022.12.</p>
+</li>
+<li><p><b>PI</b>, Shanghai Jiao Tong University Research Startup Fund, 2018.01&ndash;2019.12.</p>
+</li>
+</ul>
+<h2>Publications (<a href="https://scholar.google.com.hk/citations?user=Pd1oe-4AAAAJ&amp;hl=en">Google Scholar</a>)</h2>
 <h3>Journal Articles</h3>
-
+<ol>
+<li><p><b>X. Yu</b>, L. Liu, and G. Feng, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/TAC.2018.2790259">Distributed Circular Formation Control of Nonholonomic Vehicles Without Direct Distance Measurements</a>,&rsquo;&rsquo;  <i><b>IEEE Transactions on Automatic Control</b></i>, vol. 63, no. 8, pp. 2730&ndash;2737, Aug. 2018.</p>
+</li>
+<li><p><b>X. Yu</b>, X. Xu, L. Liu, and G. Feng, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1016/j.automatica.2017.11.021">Circular Formation of Networked Dynamic Unicycles by a Distributed Dynamic Control
+Law</a>,&rsquo;&rsquo; <i><b>Automatica</b></i>, vol. 89, pp. 1&ndash;7, Mar. 2018.</p>
+</li>
+<li><p><b>X. Yu</b> and L. Liu, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/TAC.2016.2614348">Cooperative Control for Moving-Target Circular Formation of Nonholonomic Vehicles</a>,&rsquo;&rsquo;  <i><b>IEEE Transactions
+on Automatic Control</b></i>, vol. 62, no. 7, pp. 3448&ndash;3454, July 2017.</p>
+</li>
+<li><p><b>X. Yu</b> and L. Liu, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1016/j.automatica.2016.01.056">Distributed Circular Formation Control of Ring-Networked Nonholonomic Vehicles</a>,&rsquo;&rsquo; <i><b>Automatica</b></i>,
+vol. 68, pp. 92&ndash;99, June 2016.</p>
+</li>
+<li><p><b>X. Yu*</b>, N. Ding, A. Zhang, and H. Qian, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/TCYB.2018.2873904">Cooperative Moving-Target Enclosing of Networked Vehicles With Constant Linear Velocities</a>,&rsquo;&rsquo;  <i>IEEE Transactions on Cybernetics</i>, vol. 50, no. 2, pp. 798&ndash;809, Feb. 2020.</p>
+</li>
+<li><p><b>X. Yu</b> and L. Liu, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/TIE.2015.2504042">Distributed Formation Control of Nonholonomic Vehicles Subject to Velocity Constraints</a>,&rsquo;&rsquo; <i>IEEE Transactions
+on Industrial Electronics</i>, vol. 63, no. 2, pp. 1289&ndash;1298, Feb. 2016.</p>
+</li>
+<li><p><b>X. Yu*</b>, J. Ma, N. Ding, and A. Zhang, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/TSMC.2019.2926534">Cooperative Target Enclosing Control of Multiple Mobile Robots Subject to Input Disturbances</a>,&rsquo;&rsquo;  <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, in press, DOI: 10.1109/TSMC.2019.2926534.</p>
+</li>
+<li><p><b>X. Yu</b> and L. Liu,  &lsquo;&lsquo;<a href="http://dx.doi.org/10.1007/s11432-016-9094-1">Leader-Follower Formation of Vehicles With Velocity Constraints and Local Coordinate Frames</a>,&rsquo;&rsquo; <i>SCIENCE
+CHINA Information Sciences</i>, vol. 60, no. 7, 070206, 2017.</p>
+</li>
+<li><p>J. Zhao, <b>X. Yu*</b>, X. Li, and H. Wang,  &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/LCSYS.2020.2999972">Bearing-Only Formation Tracking Control of Multi-Agent Systems With Local Reference Frames and Constant-Velocity Leaders</a>,&rsquo;&rsquo; <i>IEEE Control
+Systems Letters</i>, vol. 5, no. 1, pp. 1&ndash;6, Jan. 2021. (Selected by CDC 2020 for presentation)</p>
+</li>
+<li><p><b>X. Yu</b> and L. Liu,  &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/LCSYS.2017.2712663">Target Enclosing and Trajectory Tracking for a Mobile Robot With Input Disturbances</a>,&rsquo;&rsquo; <i>IEEE Control
+Systems Letters</i>,  vol. 1, no. 2, pp. 221&ndash;226, Oct. 2017. (Selected by CDC 2017 for presentation)</p></li>
+<li><p><b>X. Yu</b>, X. Lin, and W. Lan, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1177/0142331213518578">Composite Nonlinear Feedback Controller Design for an Overhead Crane Servo System</a>,&rsquo;&rsquo;
+<i>Transactions of the Institute of Measurement and Control</i>, vol. 36, no. 5, pp. 662&ndash;672, July 2014.</p>
+</li>
+<li><p>C. Wang, <b>X. Yu</b> and W. Lan, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1080/00207179.2014.896478">Semi-Global Output Regulation for Linear Systems With Input Saturation by Composite
+Nonlinear Feedback Control</a>,&rsquo;&rsquo; <i>International Journal of Control</i>, vol. 87, no. 10, pp. 1985&ndash;1997, 2014.</p>
+</li>
+</ol>
+<h3>Preprints</h3>
+<ol>
+<li><p>J. Ma, <b>X. Yu</b>, L. Liu, H. Ji, and G. Feng, &lsquo;&lsquo;Global Cooperative Output Regulation of Linear Multi-Agent Systems With Limited Bandwidth," under review.</p>
+</li>
+<li><p>L. Dou, <b>X. Yu</b>, L. Liu, X. Wang, and G. Feng, &lsquo;&lsquo;Moving-Target Enclosing Control for Mobile Agents With Collision Avoidance," under review.</p>
+</li>
+<li><p> <b>X. Yu</b>  and R. Su, &lsquo;&lsquo;Decentralized Circular Formation Control of Nonholonomic Mobile Robots With a Directed Sensor Graph," under review.</p>
+</li>
+<li><p>K. Xie,  <b>X. Yu</b>,  and W. Lan, &lsquo;&lsquo;Data-Driven Optimal Output Regulation for Unknown Continuous-Time Linear Systems with Internal Model," under review.</p>
+</li>
+</ol>
+<h3>Selected Conference Papers</h3>
+<ol>
+<li><p>J. Ma, <b>X. Yu*</b>, and W. Lan &ldquo;<a href="http://dx.doi.org/">Distributed Consensus of Linear Multi-agent Systems With Nonidentical Random Packet Loss</a>,&rdquo; in <i>Proceedings
+of the 2020 59th IEEE Conference on Decision and Control (<b>CDC 2020</b>)</i>,  Jeju Island, Korea, Dec. 2020, accepted.</p>
+</li>
+<li><p>X. Zhang, <b>X. Yu*</b>, and W. Chen &ldquo;<a href="http://dx.doi.org/10.1109/CDC40024.2019.9029279">Leader-follower Trajectory Tracking Control for a Mobile Robot With Unknown Amplitudes of Reference Velocities and Input Disturbances</a>,&rdquo; in <i>Proceedings
+of the 2019 58th IEEE Conference on Decision and Control (<b>CDC 2019</b>)</i>,  Nice, France, Dec. 2019, pp. 499&ndash;504.</p>
+</li>
+<li><p><b>X. Yu</b>,  L. Liu, and G. Feng, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/ACC.2016.7526823">Coordinated Control of Multiple Unicycles for Escorting and Patrolling Task Based on a Cyclic
+Pursuit Strategy</a>,&rsquo;&rsquo; in <i>Proceedings of the 2016 American Control Conference (<b>ACC 2016</b>)</i>, Boston, MA, USA, July 2016, pp. 7289&ndash;7294.</p>
+</li>
+<li><p><b>X. Yu</b>,  L. Liu, and G. Feng, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/AIM.2016.7576910">Leader-Following Consensus of Multiple Unmanned Aerial Vehicles With Input Constraints and Local
+Coordinate Frames</a>,&rsquo;&rsquo; in <i>Proceedings of the 2016 IEEE International Conference on Advanced Intelligent Mechatronics (AIM 2016)</i>, Banff, Alberta, Canada, July 2016, pp.
+1061&ndash;1066.</p>
+</li>
+<li><p><b>X. Yu</b>,  L. Liu, and G. Feng, &lsquo;&lsquo;<a href="http://dx.doi.org/10.1016/j.ifacol.2015.09.308">Trajectory Tracking for Nonholonomic Vehicles With Velocity Constraints</a>,&rsquo;&rsquo; in
+<i>IFAC-PapersOnLine</i>, vol. 48, no. 11, 2015, pp. 918&ndash;923. (See also in <i>Proceedings of 1st IFAC Conference on Modelling, Identification and Control of Nonlinear Systems
+(MICNON 2015)</i>, Saint Petersburg, Russia, June 2015, pp. 928&ndash;933.)</p>
+</li>
+<li><p>Y. Chen, Y. Wang and <b>X. Yu</b>, , &lsquo;&lsquo;<a href="http://dx.doi.org/10.1109/ICARCV.2012.6485438">Obstacle Avoidance Path Planning Strategy for Robot Arm Based on Fuzzy Logic</a>&rsquo;&rsquo;, in
+<i>Proceedings of the 12th International Conference on Control Automation Robotics & Vision (ICARCV 2012)</i>, Guangzhou, China, Dec. 2012, pp. 1648&ndash;1653.</p>
+</li>
+<li><p><b>X. Yu</b> and W. Lan, &lsquo;&lsquo;<a href="https://pdfs.semanticscholar.org/1bb8/aca03accba069140a5e1fa01878e48ca21c6.pdf">Composite Nonlinear Feedback Control for an Underactuated Gantry
+System</a>&rsquo;&rsquo;, in <i>Proceedings of the 23rd Canadian Congress of Applied Mechanics (CANCAM 2011)</i>, Vancouver, Canada, June 2011, pp. 65&ndash;68.</p>
+</li>
+</ol>
 <h2>Teaching</h2>
-
+<ul>
+<li><p>2020 Spring, Nonlinear Control and Adaptive Control, Postgraduate (XMU) </p>
+</li>
+<li><p>2020 Spring, Introduction to Robotics Techniques, Undergraduate (XMU) </p>
+</li>
+<li><p>2019 Spring, AU336, Mobile Robotics, Undergraduate (SJTU) </p>
+</li>
+<li><p>2019 Spring, AU302, Modern Control Theory, Undergraduate (SJTU)</p>
+</li>
+</ul>
 <h2>Awards</h2>
-
+<ul>
+<li><p>Sep. 2016  &nbsp;&nbsp;Outstanding Academic Performance Award, City University of Hong Kong</p>
+</li>
+<li><p>June 2013  &nbsp;Outstanding Graduates of Xiamen University</p>
+</li>
+<li><p>Nov. 2012 &nbsp;&nbsp;National Scholarships and Awards for Graduate Students in China</p>
+</li>
+</ul>
 <h2>Professional Services</h2>
-
+<ul>
+<li><p> Member, <i><a href="http://multirobotsystems.org/"> the Technical Committee on Multi-Robot Systems (TC MRS) of the IEEE Robotics and Automation Society (IEEE-RAS)</a>
+</li>
+<li><p>Reviewer for <i><a href="http://ieeecss.org/publications/tac">IEEE Transactions on Automatic Control</a>,
+<a href="http://www.journals.elsevier.com/automatica/">Automatica</a>,
+<a href="http://www.ieeecss.org/publications/tcst">IEEE Transactions on Control Systems Technology</a>,
+<a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>,
+<a href="http://www.ieeesmc.org/publications/transactions-on-cybernetics">IEEE Transactions on Cybernetics</a>,
+<a href="http://winet.ece.ufl.edu/tvt/">IEEE Transactions on Vehicular Technology</a>,
+<a href="https://www.journals.elsevier.com/control-engineering-practice">Control Engineering Practice</a>,
+<a href="http://ieee-cssletters.dei.unipd.it/index.php"> IEEE Control Systems Letters</a>,
+<a href="https://cis.ieee.org/publications/t-cognitive-and-developmental-systems">IEEE Transactions On Cognitive and Developmental Systems </a>,
+<a href="https://www.tandfonline.com/toc/tcon20/current">International Journal of Control</a>,
+<a href="https://www.journals.elsevier.com/journal-of-the-franklin-institute/">Journal of the Franklin Institute</a>,
+<a href="http://www.ajc.org.tw/">Asian Journal of Control</a>,
+<a href="http://journals.sagepub.com/home/tim">Transactions of the Institute of Measurement and Control</a>,
+<a href="https://uk.sagepub.com/en-gb/asi/proceedings-of-the-institution-of-mechanical-engineers-part-i-journal-of-systems-and-control">Proceedings of the iMeche, Part I: Journal of Systems and Control Engineering</a>,
+<a href="http://www.jpier.org/PIER/">Progress in Electromagnetic Research</a>,
+<a href="https://www.journals.elsevier.com/acta-automatica-sinica/">Acta Automatica Sinica</a>,
+<a href="http://www.worldscientific.com/worldscinet/us">Unmanned Systems</a>.</i></p>
+</li>
+</ul>
 <h2>Languages</h2>
-
+<ul>
+<li><p>Mandarin (native), English (fluent), Cantonese (basic)</p>
+</li>
+</ul>
 <div id="footer">
 <div id="footer-text">
 Page generated 2020-07-28 11:26:16 China Standard Time, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
