@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-\dot I'm a first-year Ph.D student of the University of Pennsylvania.
+* I'm a first-year Ph.D student of the University of Pennsylvania.
