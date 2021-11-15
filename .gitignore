@@ -1,19 +1,2 @@
-# IDE specific
-.idea/
-.vscode/
+_site/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Node
-node_modules/
-
-# Hugo
-resources/
-public/
-
-# Mac
-.DS_Store
-
-# Test
-test/go.sum

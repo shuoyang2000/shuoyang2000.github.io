@@ -1,42 +1,33 @@
 {
-  "name": "wowchemy",
-  "version": "1.0.0",
-  "description": "The Page Builder for Hugo",
-  "author": "George Cushen",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wowchemy/wowchemy-hugo-themes/issues"
-  },
-  "homepage": "https://wowchemy.com",
+  "name": "minimal-mistakes",
+  "version": "3.4.2",
+  "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wowchemy/wowchemy-hugo-themes.git"
+    "url": "git://github.com/mmistakes/minimal-mistakes.git"
   },
-  "main": "index.js",
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.3",
-    "bootstrap": "^4.6.0",
-    "instant.page": "^5.1.0",
-    "jquery": "^3.6.0",
-    "medium-zoom": "^1.0.6"
+  "keywords": [
+    "jekyll",
+    "theme",
+    "minimal"
+  ],
+  "author": "Michael Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+  },
+  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "eslint": "7.20.0",
-    "eslint-config-prettier": "^7.1.0",
-    "prettier": "2.2.1",
-    "prettier-plugin-go-template": "0.0.11-beta.4",
-    "stylelint": "13.10.0",
-    "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-standard": "^20.0.0",
-    "stylelint-scss": "3.19.0"
+    "npm-run-all": "^1.7.0",
+    "onchange": "^2.2.0",
+    "uglify-js": "^2.6.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "yarn run lint:js && yarn run lint:style",
-    "lint:js": "eslint '*/**/*.{js,ts,tsx}'",
-    "lint:js:fix": "eslint '*/**/*.{js,ts,tsx}' --fix",
-    "lint:style": "stylelint '*/**/*.{css,scss}'",
-    "format": "prettier --write \"*.{css,js,json,md,scss}\" \"./**/*.{css,js,json,md,scss}\"",
-    "stylelint-conflict-check": "stylelint-config-prettier-check"
+    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
+    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
+    "build:js": "npm run uglify"
   }
 }
