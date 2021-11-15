@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://shuoyang2000.github.io/publications/
+    url: publications/
 
   - title: "Talks"
     url: https://shuoyang2000.github.io/talks/    
