@@ -24,12 +24,9 @@ Education
     * Visiting Student
     * Advisor: Michael M. Zavlanos
 
-Work experience
+Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant of *Discrete Mathmatics* <span style="float:right">Shanghai Jiao Tong University, Fall 2020</span>
 
 * Fall 2015: Research Assistant
   * Github University
@@ -44,25 +41,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
