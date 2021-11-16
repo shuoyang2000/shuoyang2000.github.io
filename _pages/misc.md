@@ -1,5 +1,0 @@
-* **Hobbies**: Basektball
-
----
-
-* **Sports**: Basektball
