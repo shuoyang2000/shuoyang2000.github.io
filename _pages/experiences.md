@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experiences"
+#title: "Experiences"
 permalink: /experiences/
 author_profile: true
 redirect_from:
@@ -27,23 +27,3 @@ Education
 Teaching
 ======
 * Teaching Assistant of *Discrete Mathmatics* <span style="float:right">Shanghai Jiao Tong University, Fall 2020</span>
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
