@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* University of Pennsylvania 
+* **University of Pennsylvania** <span style="float:right">Philadelphia, PA, USA</span>
   * School of Engineering and Applied Science <span style="float:right">Aug 2021 - Present</span>
     * Ph. D in Electrical and Systems Engineering
-* Shanghai Jiao Tong University
+* **Shanghai Jiao Tong University** <span style="float:right">Shanghai, China</span>
   * School of Electronic Information and Electrical Engineering <span style="float:right">Sept 2017 - June 2021</span>
     * B. Eng in Automation
 
