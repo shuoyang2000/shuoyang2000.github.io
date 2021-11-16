@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  #- title: "Experiences"
-    #url: /experiences/
+  - title: "Experiences"
+    url: /experiences/
 
   - title: "Publications"
     url: /publications/
@@ -18,9 +18,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Experiences"
-    url: /experiences/
     
   #- title: "Guide"
     #url: /markdown/
