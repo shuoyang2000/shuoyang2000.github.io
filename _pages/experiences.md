@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* University of Pennsylvania <p align="right">Aug. 2021 - Present</p>
+* University of Pennsylvania <span style="float:right">2018.03~2018.05</span>
 * Shanghai Jiao Tong University
   * School of Electronic Information and Electrical Engineering
     * B. Eng in Automation
