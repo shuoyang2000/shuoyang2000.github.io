@@ -8,7 +8,7 @@ redirect_from:
   - /misc.html
 ---
 
-* **Sports**: Basektball
+* **Hobbies**: Basektball
 
 ---
 
