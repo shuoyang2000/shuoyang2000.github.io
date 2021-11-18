@@ -1,10 +1,10 @@
 ---
 layout: archive
-#title: "posts"
-permalink: /posts/
+#title: "Talks"
+permalink: /talks/
 author_profile: true
 redirect_from:
-  - /posts
+  - /talk
 ---
 
 {% include base_path %}
