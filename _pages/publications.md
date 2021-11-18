@@ -11,9 +11,13 @@ redirect_from:
 
 2021
 ======
-**Secure-by-construction optimal path planning for linear temporal logic tasks**  
-**Shuo Yang**, Xiang Yin, Shaoyuan Li and Majid Zamani  
-*59th IEEE Conference on Decision and Control (CDC)*
+**Secure your intention: On notions of pre-opacity in discrete-event systems**  
+**Shuo Yang**, Xiang Yin  
+*IEEE Transactions on Automatic Control (TAC)*
+
+**Opacity of networked supervisory control systems over insecure communication channels**  
+**Shuo Yang**, Junyao Hou, Xiang Yin, Shaoyuan Li  
+*IEEE Transactions on Control of Network Systems (TCNS)*
 
 **Secure-by-construction optimal path planning for linear temporal logic tasks**  
 **Shuo Yang**, Xiang Yin, Shaoyuan Li and Majid Zamani  
