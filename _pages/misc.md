@@ -11,12 +11,19 @@ redirect_from:
 
 Academic Services
 -----
-**Reviewer** :   
-* IEEE Conference on Decision and Control (CDC)  
-* Nonlinear Analysis: Hybrid Systems  
-* International Journal of System Control and Information Processing
+* **Reviewer** :   
+  * IEEE Conference on Decision and Control  
+  * Nonlinear Analysis: Hybrid Systems  
+  * International Journal of System Control and Information Processing
 
-Hobbies: 
+Selected Honors
+-----
+* 2021, Outstanding Graduates Awards of SJTU
+* 2021, Excellent Bachelor Thesis Award from SJTU
+* 2020, Person of the Year of SJTU
+* 2018 & 2019, Excellent Academic Scholarship from SJTU
+
+Hobbies
 -----
 * Texas Hold'em 
 * Basketball
