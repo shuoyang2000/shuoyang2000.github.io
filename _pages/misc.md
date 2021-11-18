@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-##Academic Services
-
-* **Reviewer** *:   
+Academic Services
+-----
+**Reviewer** :   
 * IEEE Conference on Decision and Control (CDC)  
 * Nonlinear Analysis: Hybrid Systems  
 * International Journal of System Control and Information Processing
 
-##Hobbies: 
+Hobbies: 
+-----
 * Texas Hold'em 
 * Basketball
