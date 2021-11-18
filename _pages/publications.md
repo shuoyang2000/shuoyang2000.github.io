@@ -11,6 +11,6 @@ redirect_from:
 
 2021
 ======
-**Secure-by-construction optimal path planning for linear temporal logic tasks**
-Shuo Yang, Xiang Yin, Shaoyuan Li and Majid Zamani
+**Secure-by-construction optimal path planning for linear temporal logic tasks**  
+Shuo Yang, Xiang Yin, Shaoyuan Li and Majid Zamani  
 59th IEEE Conference on Decision and Control (CDC)
