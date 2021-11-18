@@ -18,7 +18,7 @@ Academic Services
 
 Selected Honors
 -----
-* 2021, Outstanding Graduates Awards of SJTU
+* 2021, Outstanding Graduate of SJTU
 * 2021, Excellent Bachelor Thesis Award from SJTU
 * 2020, Person of the Year of SJTU
 * 2018 & 2019, Excellent Academic Scholarship from SJTU
@@ -27,3 +27,4 @@ Hobbies
 -----
 * Texas Hold'em 
 * Basketball
+* Reading
