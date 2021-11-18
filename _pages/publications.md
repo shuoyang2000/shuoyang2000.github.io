@@ -13,7 +13,7 @@ redirect_from:
 ======
 **Secure your intention: On notions of pre-opacity in discrete-event systems**  
 **Shuo Yang**, Xiang Yin  
-*IEEE Transactions on Automatic Control (TAC)* [PDF](https://arxiv.org/pdf/2010.14120.pdf)
+*IEEE Transactions on Automatic Control (TAC)* [PDF]
 
 **Opacity of networked supervisory control systems over insecure communication channels**  
 **Shuo Yang**, Junyao Hou, Xiang Yin, Shaoyuan Li  
