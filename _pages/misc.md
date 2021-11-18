@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Academic Services
-======
+------
 Reviewer:   
 IEEE Conference on Decision and Control (CDC)  
 Nonlinear Analysis: Hybrid Systems  
