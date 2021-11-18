@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a first-year Ph.D student of the University of Pennsylvania.
+* I'm a first-year Ph.D student of the University of Pennsylvania, supervised by Professor [Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/).
 
-* I'm very fortunate to have Professor [Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/) be my supervisor.
+* Previsouly, I received my Bachelor's degree at Shanghai Jiao Tong University, where I worked with Professor [Xiang Yin](https://xiangyin.sjtu.edu.cn/).
 
-* Previsouly, I obtained my Bachelor's degree at Shanghai Jiao Tong University, where I fortunately worked with Professor [Xiang Yin](https://xiangyin.sjtu.edu.cn/).
+* I was born in 2000, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
 
-* My current research interest mainly focus on autonomous racing.
+* My current research interest mainly focus on the intersection of control, learning, and formal methods. I am interested in autonomous racing.
 
 * Feel free to contact me if you are interested in my research.
