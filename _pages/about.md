@@ -16,4 +16,4 @@ redirect_from:
 
 * My current research interest mainly focus on the intersection of control, learning, and formal methods. I am interested in autonomous racing.
 
-* Feel free to contact me if you are interested in my research.
+* If you are interested in my research, feel free to contact me (yangs1 AT seas DOT upenn DOT edu).
