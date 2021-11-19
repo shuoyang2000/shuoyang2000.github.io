@@ -9,5 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Learning Notes
+* **Learning Notes**
   * Satisfiability modulo theories (SMT)
+  * Model predictive control
+  * Computer graphics
