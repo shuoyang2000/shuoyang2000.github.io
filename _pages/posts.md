@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon!
+* Learning Notes
+  * Satisfiability modulo theories (SMT)
