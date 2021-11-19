@@ -12,7 +12,7 @@ redirect_from:
 Academic Services
 -----
 * **Reviewer** :   
-  * IEEE Conference on Decision and Control  
+  * American Control Conference
   * Nonlinear Analysis: Hybrid Systems  
   * International Journal of System Control and Information Processing
 
