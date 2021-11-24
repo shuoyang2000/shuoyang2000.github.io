@@ -103,8 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : shuo-yang-05910b1a6
-  #orcid            : "https://orcid.org/0000-0003-1847-6413"
-  orcid              : "<a href='https://clustrmaps.com/site/1blc0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=u8rjKklEflLlDJ95bBs8OTRj3QGRNt2FM-fI3LaD0nI'/></a>"
+  orcid            : "https://orcid.org/0000-0003-1847-6413"
+  #orcid              : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
