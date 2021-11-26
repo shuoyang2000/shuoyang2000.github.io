@@ -26,5 +26,6 @@ Selected Honors
 Hobbies
 -----
 * Texas Hold'em 
-* Basketball
+* Basketball, Table Tennis
 * Reading
+* Jay Chou Fans
