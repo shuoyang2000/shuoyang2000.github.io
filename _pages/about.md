@@ -18,4 +18,4 @@ redirect_from:
 
 * My current research mainly focus on the intersection of control, learning, and formal methods. I am interested in autonomous racing.
 
-* You could contact me via email: yangs1 AT seas DOT upenn DOT edu
+* You could contact me via email: yangs1 AT seas DOT upenn DOT edu  
