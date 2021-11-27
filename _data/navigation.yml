@@ -18,6 +18,9 @@ main:
         
   - title: "Blog Posts"
     url: /posts/
+
+  - title: "Photo"
+    url: /photo/
     
   #- title: "Guide"
     #url: /markdown/
