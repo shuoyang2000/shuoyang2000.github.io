@@ -29,3 +29,7 @@ Hobbies
 * Basketball, Table Tennis
 * Reading
 * Jay Chou Fans
+
+Mottos
+-----
+* 黑夜给了我黑色的眼睛，我却用它来寻找光明
