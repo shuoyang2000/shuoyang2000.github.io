@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 * **Learning Notes**
-  * Satisfiability modulo theories (SMT)
-  * Model predictive control
-  * Computer graphics
+  
+  * <details><summary>Satisfiability modulo theories (SMT)</summary>
+    coming soon
+    </details>
+  
+  * <details><summary>Model predictive control</summary>
+        coming soon
+    </details>
+  
+  * <details><summary>Computer graphics</summary>
+        Following the course by Professor <a href=https://sites.cs.ucsb.edu/~lingqi/>Lingqi Yang</a>.
+    </details>
+
