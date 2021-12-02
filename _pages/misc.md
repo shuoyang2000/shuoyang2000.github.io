@@ -35,3 +35,4 @@ Hobbies
 Mottos
 -----
 * 黑夜给了我黑色的眼睛，我却用它来寻找光明
+* Better to light the candle, than curse the darkness
