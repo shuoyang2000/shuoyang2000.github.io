@@ -8,4 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="image-container"> <img src="../images/DongtingLake.jpg" /><div class="image-caption"><h1_hover>Dongting Lake</h1_hover><p>Nov 2021</p><p>Yueyang, Hunan, China</p></div></div>
+
+<div align=''center''>
+    <img src="../images/DongtingLake.jpg" width = "300" height = "200" alt="Dongting Lake" align=center />
+</div>
