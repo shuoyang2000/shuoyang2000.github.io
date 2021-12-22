@@ -28,11 +28,12 @@ Selected Honors
 Hobbies
 -----
 * Texas Hold'em 
-* Basketball, Table Tennis
+* Basketball, Table Tennis, Badminton
 * Reading
 * Jay Chou Fans
 
 Mottos
 -----
 * 黑夜给了我黑色的眼睛，我却用它来寻找光明
+* The former world has passed away
 * Better to light the candle, than curse the darkness
