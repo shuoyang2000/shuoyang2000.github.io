@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<div align=''center''>
-    <img src="../images/DongtingLake.jpg" width = "300" height = "200" alt="Dongting Lake" align=center />
-</div>
+<img src="../images/DongtingLake.jpg" width = "300" height = "200" alt="Dongting Lake" align=center />
