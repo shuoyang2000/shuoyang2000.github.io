@@ -1,5 +1,5 @@
 layout: archive
-#title: "Misc"
+#title: "Photo"
 permalink: /photo/
 author_profile: true
 redirect_from:
