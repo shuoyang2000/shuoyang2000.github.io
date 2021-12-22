@@ -9,4 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="../images/DongtingLake.jpg" width = "300" height = "200" alt="Dongting Lake" align=center />
+<center>
+    <img style="width = 300; height = 200;" 
+    src="../images/DongtingLake.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+         display: inline-block; color: #999; padding: 2px;">Tongting Lake</div>
+</center>
