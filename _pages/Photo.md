@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Coming soon!
+<div class="image-container"> <img src="../images/DongtingLake.jpg" /><div class="image-caption"><h1_hover>Dongting Lake</h1_hover><p>Nov 2021</p><p>Yueyang, Hunan, China</p></div></div>
