@@ -4,7 +4,7 @@ layout: archive
 permalink: /photo/
 author_profile: true
 redirect_from:
-  - /photo
+  - /photos
 ---
 
 {% include base_path %}
