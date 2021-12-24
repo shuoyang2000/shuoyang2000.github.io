@@ -13,7 +13,7 @@ redirect_from:
 ======
 **Secure your intention: On notions of pre-opacity in discrete-event systems**  
 **Shuo Yang**, Xiang Yin  
-*IEEE Transactions on Automatic Control (TAC)* [paper](https://arxiv.org/pdf/2010.14120.pdf) [slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)
+*IEEE Transactions on Automatic Control (TAC)* [paper](https://arxiv.org/pdf/2010.14120.pdf)
 
 **Opacity of networked supervisory control systems over insecure communication channels**  
 **Shuo Yang**, Junyao Hou, Xiang Yin, Shaoyuan Li  
@@ -21,4 +21,4 @@ redirect_from:
 
 **Secure-by-construction optimal path planning for linear temporal logic tasks**  
 **Shuo Yang**, Xiang Yin, Shaoyuan Li and Majid Zamani  
-*59th IEEE Conference on Decision and Control (CDC)* [paper](https://shuoyang2000.github.io/files/CDC-Yang.pdf)
+*59th IEEE Conference on Decision and Control (CDC)* [paper](https://shuoyang2000.github.io/files/CDC-Yang.pdf) [slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)
