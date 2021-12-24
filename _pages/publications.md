@@ -29,7 +29,7 @@ redirect_from:
 Thesis
 ======
 
-**Verification and Synthesis of Opacity for Cyber-Physical Systems [thesis](https://shuoyang2000.github.io/files/thesis.pdf)**  
+**Verification and Synthesis of Opacity for Cyber-Physical Systems** [thesis](https://shuoyang2000.github.io/files/thesis.pdf)  
 Shuo Yang, Advised by Xiang Yin  
 <font color=red>Outstanding Bachelor's Thesis of SJTU (top 1%)</font> 
 
