@@ -26,7 +26,7 @@ redirect_from:
 
 
 
-Bachelor's Thesis
+Thesis
 ======
 
 **Verification and Synthesis of Opacity for Cyber-Physical Systems** [thesis](https://shuoyang2000.github.io/files/thesis.pdf)
