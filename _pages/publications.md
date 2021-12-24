@@ -11,6 +11,7 @@ redirect_from:
 
 2021
 ======
+
 **Secure your intention: On notions of pre-opacity in discrete-event systems**  
 **Shuo Yang**, Xiang Yin  
 *IEEE Transactions on Automatic Control (TAC)* [paper](https://arxiv.org/pdf/2010.14120.pdf)
@@ -22,3 +23,14 @@ redirect_from:
 **Secure-by-construction optimal path planning for linear temporal logic tasks**  
 **Shuo Yang**, Xiang Yin, Shaoyuan Li and Majid Zamani  
 *59th IEEE Conference on Decision and Control (CDC)* [paper](https://shuoyang2000.github.io/files/CDC-Yang.pdf) [slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)
+
+
+
+Bachelor's Thesis
+======
+
+**Verification and Synthesis of Opacity for Cyber-Physical Systems** [thesis](https://shuoyang2000.github.io/files/thesis.pdf)
+
+Shuo Yang, Advised by Xiang Yin
+
+<font color=red>Outstanding Bachelor's Thesis of SJTU (top 1%)</font>
