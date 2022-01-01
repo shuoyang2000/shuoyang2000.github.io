@@ -21,7 +21,7 @@ Selected Honors
 * 2021, The Dean's Fellowship from Penn
 * 2021, Solomon M. Swaab Fellowship from Penn
 * 2021, Outstanding Graduate of SJTU
-* 2021, Excellent Bachelor Thesis Award from SJTU
+* 2021, Outstanding Bachelor Thesis Award from SJTU
 * 2020, Person of the Year of SJTU
 * 2018 & 2019, Excellent Academic Scholarship from SJTU
 
