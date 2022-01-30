@@ -31,9 +31,10 @@ Hobbies
 * Basketball, Table Tennis, Badminton
 * Reading
 * Jay Chou Fans
+* Video Game
 
 Mottos
 -----
 * 黑夜给了我黑色的眼睛，我却用它来寻找光明
 * The former world has passed away
-* Better to light the candle, than curse the darkness
+* She/He was still too young to know that life never gives anything for nothing, and that a price is always exacted for what fate bestows.
