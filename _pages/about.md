@@ -16,3 +16,4 @@ redirect_from:
 * My Chinese name is 杨烁. You could contact me via email: 
   * yangs1 AT seas DOT upenn DOT edu
   * shuoyang.penn AT gmail DOT com
+* My weChat ID is helloys20
