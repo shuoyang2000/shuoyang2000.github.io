@@ -17,7 +17,7 @@ redirect_from:
     </details>
   * <details><summary>Business Organizations</summary>
         <font face="Times New Roman">
-            I am reading this book Business Organizations: A Contemporary Approach (3rd Edition), by Alan Palmiter, Frank Partnoy, and Elizabeth Pollman. Reading notes will be               shared by chapters.	 </font>
+            I am reading this book *Business Organizations: A Contemporary Approach (3rd Edition), by Alan Palmiter, Frank Partnoy, and Elizabeth Pollman*. Reading notes will be               shared by chapters.	 </font>
     </details>
   * <details><summary>Satisfiability modulo theories (SMT)</summary>
         <font face="Times New Roman">
