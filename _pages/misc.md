@@ -30,8 +30,8 @@ Hobbies
 * Texas Hold'em 
 * Basketball, Table Tennis, Badminton
 * Reading
-* Jay Chou Fans
-* Video Game
+* Jay Chou Fan, G.E.M Fan
+* Video Games
 
 Mottos
 -----
