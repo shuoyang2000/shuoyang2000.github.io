@@ -30,7 +30,7 @@ Hobbies
 * Texas Hold'em 
 * Basketball, Table Tennis, Badminton
 * Reading
-* Jay Chou Fan, G.E.M. Fan
+* Jay Chou[https://en.wikipedia.org/wiki/Jay_Chou] Fan, G.E.M.[https://en.wikipedia.org/wiki/G.E.M.] Fan
 * Video Games
 
 Mottos
