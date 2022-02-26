@@ -36,5 +36,5 @@ Hobbies
 Mottos
 -----
 * 黑夜给了我黑色的眼睛，我却用它来寻找光明
-* The former world has passed away
+* 盖将自其变者而观之，则天地曾不能以一瞬；自其不变者而观之，则物与我皆无尽也
 * She/He was still too young to know that life never gives anything for nothing, and that a price is always exacted for what fate bestows.
