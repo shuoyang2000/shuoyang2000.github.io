@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a Ph.D student of the University of Pennsylvania, supervised by Professor Rahul Mangharam.
+* I'm a Ph.D student of the University of Pennsylvania, supervised by Professor [Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/).
 * Previsouly, I received my Bachelor's degree at Shanghai Jiao Tong University, where I worked closely with Professor [Xiang Yin](https://xiangyin.sjtu.edu.cn/).
 * During the summer of 2020, I worked with Professor [Michael M. Zavlanos](https://www.michaelmzavlanos.org/), Duke University.
 * I was born in Dec 2000, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
