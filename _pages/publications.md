@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+2022
+======
+
+**Differentiable safe controller design through control barrier functions**  
+**Shuo Yang**, Shaoru Chen, Victor M. Preciado, Rahul Mangharam  
+*under review* [paper](https://arxiv.org/pdf/2209.10034.pdf)
+
 2021
 ======
 
