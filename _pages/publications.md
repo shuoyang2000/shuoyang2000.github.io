@@ -12,7 +12,7 @@ redirect_from:
 2022
 ======
 
-**A Benchmark Comparison of Imitation Learning-based Control Policies for Autonomous Racing**  
+**A benchmark comparison of imitation learning-based control policies for autonomous racing**  
 Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
 *under review* [paper]
 
