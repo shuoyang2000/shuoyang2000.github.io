@@ -12,6 +12,10 @@ redirect_from:
 2022
 ======
 
+**A Benchmark Comparison of Imitation Learning-based Control Policies for Autonomous Racing**  
+Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
+*under review* [paper]
+
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**, Shaoru Chen, Victor M. Preciado, Rahul Mangharam  
 *under review* [paper](https://arxiv.org/pdf/2209.10034.pdf)
