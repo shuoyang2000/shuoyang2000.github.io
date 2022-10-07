@@ -13,7 +13,4 @@ redirect_from:
 * During the summer of 2020, I worked with Professor [Michael M. Zavlanos](https://www.michaelmzavlanos.org/), Duke University.
 * I was born in Dec 2000, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
 * My current research mainly focus on the intersection of formal methods, robotics, control and learning. I also enjoy studying the general area of theoretical computer science.
-* My Chinese name is 杨烁. You could contact me via email: 
-  * yangs1 AT seas DOT upenn DOT edu
-  * shuoyang.penn AT gmail DOT com
-* My weChat ID is helloys20
+* My Chinese name is 杨烁. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
