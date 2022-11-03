@@ -11,7 +11,6 @@ redirect_from:
 
 2022
 ======
-
 **Towards Explainability in Modular Autonomous Vehicle Software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam
 *2022 IEEE Real-Time Systems Symposium (RTSS) Workshop on Explainability of Real-time Systems*
