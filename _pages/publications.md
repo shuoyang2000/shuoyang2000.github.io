@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-(<sup>*</sup> denotes equal contribution)
+(\* denotes equal contribution)
 {% include base_path %}
 
 2022
@@ -21,7 +21,7 @@ Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Man
 *2022 International Conference on Intelligent Robots and Systems (IROS) Workshop on MiniRobots* [paper](https://arxiv.org/pdf/2209.15073.pdf)
 
 **Differentiable safe controller design through control barrier functions**  
-**Shuo Yang**<sup>*</sup>, Shaoru Chen<sup>*</sup>, Victor M. Preciado, Rahul Mangharam  
+**Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
 *under review* [paper](https://arxiv.org/pdf/2209.10034.pdf)
 
 2021
