@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-(\* denotes equal contribution)
+(\* Equal contribution)
 {% include base_path %}
 
 2022
