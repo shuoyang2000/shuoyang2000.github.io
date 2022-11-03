@@ -13,7 +13,7 @@ redirect_from:
 ======
 
 **Towards Explainability in Modular Autonomous Vehicle Software**  
-Hongrui Zheng*, Zirui Zang*, **Shuo Yang***, Rahul Mangharam
+Hongrui Zheng*, Zirui Zang*, **Shuo Yang**<sup>*</sup>, Rahul Mangharam
 *2022 IEEE Real-Time Systems Symposium (RTSS) Workshop on Explainability of Real-time Systems*
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
@@ -21,7 +21,7 @@ Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Man
 *2022 International Conference on Intelligent Robots and Systems (IROS) Workshop on MiniRobots* [paper](https://arxiv.org/pdf/2209.15073.pdf)
 
 **Differentiable safe controller design through control barrier functions**  
-**Shuo Yang***, Shaoru Chen*, Victor M. Preciado, Rahul Mangharam  
+**Shuo Yang**<sup>*</sup>, Shaoru Chen*, Victor M. Preciado, Rahul Mangharam  
 *under review* [paper](https://arxiv.org/pdf/2209.10034.pdf)
 
 2021
