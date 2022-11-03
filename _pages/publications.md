@@ -13,7 +13,7 @@ redirect_from:
 ======
 
 **Towards Explainability in Modular Autonomous Vehicle Software**  
-Hongrui Zheng∗, Zirui Zang∗, **Shuo Yang**, Rahul Mangharam 
+Hongrui Zheng*, Zirui Zang*, **Shuo Yang***, Rahul Mangharam 
 *2022 IEEE Real-Time Systems Symposium (RTSS) Workshop on Explainability of Real-time Systems* [paper]
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
