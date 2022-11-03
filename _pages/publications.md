@@ -31,7 +31,7 @@ Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Man
 *IEEE Transactions on Automatic Control (TAC)* [paper](https://shuoyang2000.github.io/files/TAC_Yang.pdf)
 
 **Opacity of networked supervisory control systems over insecure communication channels**  
-**Shuo Yang**, Junyao Hou, Xiang Yin, Shaoyuan Li  
+**Shuo Yang**\*, Junyao Hou\*, Xiang Yin, Shaoyuan Li  
 *IEEE Transactions on Control of Network Systems (TCNS)* [paper](https://shuoyang2000.github.io/files/TCNS-Yang.pdf)
 
 **Secure-by-construction optimal path planning for linear temporal logic tasks**  
