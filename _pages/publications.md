@@ -11,6 +11,10 @@ redirect_from:
 
 2022
 ======
+**You Don’t Know When I Will Arrive: Unpredictable Controller Synthesis for Temporal Logic Tasks**  
+Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
+*under review*
+
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
 *2022 IEEE Real-Time Systems Symposium (RTSS) Workshop on Explainability of Real-time Systems*
