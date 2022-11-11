@@ -17,4 +17,4 @@ redirect_from:
   * Buliding formal method-guided trustworthy and reliable AI system
   * Perception-based robust planning and control
   * Formal verification and synthesis for discrete-events systems
-* My Chinese name is 杨烁 (y&aacute;ng). Please let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
+* My Chinese name is 杨烁 (y&aacute;ng shu&ograve;). Please let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
