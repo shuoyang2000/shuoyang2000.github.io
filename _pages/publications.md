@@ -11,7 +11,7 @@ redirect_from:
 
 2022
 ======
-**You Don’t Know When I Will Arrive: Unpredictable Controller Synthesis for Temporal Logic Tasks**  
+**You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
 Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
 *under review*
 
