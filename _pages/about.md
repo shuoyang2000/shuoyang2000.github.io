@@ -14,7 +14,7 @@ redirect_from:
 * I was born in Dec 2000, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
 * My current research mainly focus on the intersection of formal methods, robotics, control and learning. I also enjoy studying the general area of theoretical computer science. Particularly I am interested in the following several directions:
   * Learning-based safety-critical control for autonomous system
-  * Buliding formal method-guided trustworth and reliable AI system
+  * Buliding formal method-guided trustworthy and reliable AI system
   * Perception-based robust planning and control
   * Formal verification and synthesis for discrete-events systems
 * My Chinese name is 杨烁. Please let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
