@@ -13,7 +13,7 @@ redirect_from:
 ======
 **You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
 Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
-*under review*
+*under review* [paper](https://arxiv.org/pdf/2211.12803.pdf)
 
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
