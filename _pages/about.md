@@ -18,4 +18,4 @@ redirect_from:
   * Perception-based robust planning and control
   * Formal verification and synthesis for discrete-events systems
 * My Chinese name is 杨烁 (y&aacute;ng shu&ograve;), where 杨 is my family name and 烁 is my given name. 
-* Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) Please let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
+* Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf). Please let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
