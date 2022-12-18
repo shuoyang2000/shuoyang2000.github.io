@@ -25,7 +25,7 @@ Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Man
 
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
-*under review* [paper](https://arxiv.org/pdf/2209.10034.pdf)
+*IEEE Control Systems Letters (L-CSS)* [paper](https://arxiv.org/pdf/2209.10034.pdf)
 
 2021
 ======
