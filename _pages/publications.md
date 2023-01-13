@@ -21,7 +21,7 @@ Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
 Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
-*2022 International Conference on Intelligent Robots and Systems (IROS) Workshop on MiniRobots* [PDF](https://arxiv.org/pdf/2209.15073.pdf)
+*2022 International Conference on Intelligent Robots and Systems (IROS) Workshop on MiniRobots* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)]
 
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
