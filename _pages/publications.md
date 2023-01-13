@@ -47,7 +47,7 @@ To appear in the *IEEE Control Systems Letters (L-CSS)* [[PDF](https://shuoyang2
 Thesis
 ======
 
-**Verification and Synthesis of Opacity for Cyber-Physical Systems** [[PDF](https://shuoyang2000.github.io/files/thesis.pdf)]
+**Verification and Synthesis of Opacity for Cyber-Physical Systems** [[PDF](https://shuoyang2000.github.io/files/thesis.pdf)]  
 Shuo Yang, Advised by Xiang Yin  
 *Outstanding Bachelor's Thesis of SJTU (top 1%)*
 
