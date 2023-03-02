@@ -9,6 +9,12 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
+2023
+======
+**MEGA-DAgger: Imitation Learning with Multiple Imperfect Experts**  
+Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam  
+*under review* [[PDF](https://arxiv.org/pdf/2303.00638.pdf)][[video](https://youtu.be/pYQiPSHk6dU)]
+
 2022
 ======
 **You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
