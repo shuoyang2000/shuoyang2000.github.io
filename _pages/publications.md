@@ -19,7 +19,7 @@ Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam
 ======
 **You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
 Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
-*under review* [[PDF](https://arxiv.org/pdf/2211.12803.pdf)]
+*22nd IFAC World Congress* [[PDF](https://arxiv.org/pdf/2211.12803.pdf)]
 
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
