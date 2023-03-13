@@ -31,7 +31,7 @@ Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Man
 
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
-*IEEE Control Systems Letters (L-CSS)* (To be presented at ACC 2023) [[PDF](https://shuoyang2000.github.io/files/LCSS-DiffSafeControl-2022.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/10004041)]
+*IEEE Control Systems Letters (L-CSS)* [[PDF](https://shuoyang2000.github.io/files/LCSS-DiffSafeControl-2022.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/10004041)]
 
 2021
 ======
