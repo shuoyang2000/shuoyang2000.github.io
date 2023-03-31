@@ -9,32 +9,25 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
-2023
-======
 **MEGA-DAgger: Imitation Learning with Multiple Imperfect Experts**  
 Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam  
 *under review* [[PDF](https://arxiv.org/pdf/2303.00638.pdf)][[video](https://youtu.be/pYQiPSHk6dU)]
 
-2022
-======
 **You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
 Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
 *22nd IFAC World Congress* [[PDF](https://arxiv.org/pdf/2211.12803.pdf)]
 
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
-*2022 IEEE Real-Time Systems Symposium (RTSS) Workshop on Explainability of Real-time Systems*
+*2023 IEEE Intelligent Vehicles Symposium (IV)*
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
 Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
-*2022 International Conference on Intelligent Robots and Systems (IROS) Workshop on MiniRobots* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)]
+*2023 IEEE Intelligent Vehicles Symposium (IV)* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)]
 
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
 *IEEE Control Systems Letters (L-CSS)* [[PDF](https://shuoyang2000.github.io/files/LCSS-DiffSafeControl-2022.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/10004041)]
-
-2021
-======
 
 **Secure your intention: On notions of pre-opacity in discrete-event systems**  
 **Shuo Yang**, Xiang Yin  
