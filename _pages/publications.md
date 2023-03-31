@@ -9,7 +9,7 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
-**MEGA-DAgger: Imitation Learning with Multiple Imperfect Experts**  
+**MEGA-DAgger: Imitation learning with multiple imperfect experts**  
 Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam  
 *under review* [[PDF](https://arxiv.org/pdf/2303.00638.pdf)][[video](https://youtu.be/pYQiPSHk6dU)]
 
