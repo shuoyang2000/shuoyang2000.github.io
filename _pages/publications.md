@@ -15,31 +15,31 @@ Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam
 
 **You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
 Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
-*22nd IFAC World Congress* [[PDF](https://arxiv.org/pdf/2211.12803.pdf)]
+*22nd IFAC World Congress 2023* [[PDF](https://arxiv.org/pdf/2211.12803.pdf)]
 
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
-*2023 IEEE Intelligent Vehicles Symposium (IV)*
+*IEEE Intelligent Vehicles Symposium (IV) 2023*
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
 Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
-*2023 IEEE Intelligent Vehicles Symposium (IV)* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)]
+*IEEE Intelligent Vehicles Symposium (IV) 2023* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)]
 
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
-*IEEE Control Systems Letters (L-CSS)* [[PDF](https://shuoyang2000.github.io/files/LCSS-DiffSafeControl-2022.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/10004041)]
+*IEEE Control Systems Letters (L-CSS) 2022* [[PDF](https://shuoyang2000.github.io/files/LCSS-DiffSafeControl-2022.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/10004041)]
 
 **Secure your intention: On notions of pre-opacity in discrete-event systems**  
 **Shuo Yang**, Xiang Yin  
-*IEEE Transactions on Automatic Control (TAC)* [[PDF](https://shuoyang2000.github.io/files/TAC_Yang.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/9904329)]
+*IEEE Transactions on Automatic Control (TAC) 2022* [[PDF](https://shuoyang2000.github.io/files/TAC_Yang.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/9904329)]
 
 **Opacity of networked supervisory control systems over insecure communication channels**  
 **Shuo Yang**\*, Junyao Hou\*, Xiang Yin, Shaoyuan Li  
-*IEEE Transactions on Control of Network Systems (TCNS)* [[PDF](https://shuoyang2000.github.io/files/TCNS-Yang.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/9317777)]
+*IEEE Transactions on Control of Network Systems (TCNS) 2021* [[PDF](https://shuoyang2000.github.io/files/TCNS-Yang.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/9317777)]
 
 **Secure-by-construction optimal path planning for linear temporal logic tasks**  
 **Shuo Yang**, Xiang Yin, Shaoyuan Li and Majid Zamani  
-*59th IEEE Conference on Decision and Control (CDC)* [[PDF](https://shuoyang2000.github.io/files/CDC-Yang.pdf)][[IEEE](https://ieeexplore.ieee.org/document/9304153)] [[slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)]
+*59th IEEE Conference on Decision and Control (CDC) 2020* [[PDF](https://shuoyang2000.github.io/files/CDC-Yang.pdf)][[IEEE](https://ieeexplore.ieee.org/document/9304153)] [[slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)]
 
 
 
