@@ -9,6 +9,10 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
+**Safe perception-based control under stochastic sensor uncertainty using conformal prediction**  
+**Shuo Yang**, George J. Pappas, Rahul Mangharam, Lars Lindemann  
+*under review*
+
 **MEGA-DAgger: Imitation learning with multiple imperfect experts**  
 Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam  
 *under review* [[PDF](https://arxiv.org/pdf/2303.00638.pdf)][[video](https://youtu.be/pYQiPSHk6dU)]
