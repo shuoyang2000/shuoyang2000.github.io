@@ -11,7 +11,7 @@ redirect_from:
 
 **Safe perception-based control under stochastic sensor uncertainty using conformal prediction**  
 **Shuo Yang**, George J. Pappas, Rahul Mangharam, Lars Lindemann  
-*under review*
+*under review* [PDF]
 
 **MEGA-DAgger: Imitation learning with multiple imperfect experts**  
 Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam  
@@ -23,7 +23,7 @@ Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin
 
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
-*IEEE Intelligent Vehicles Symposium (IV) 2023*
+*IEEE Intelligent Vehicles Symposium (IV) 2023* [PDF]
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
 Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
