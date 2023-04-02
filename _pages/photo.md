@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Here are some photos taken by me, and I will update them randomly:-) 
+<p>Here are some photos taken by me, and I will update them randomly :-) 
 </p><link rel="stylesheet" href="../assets/css/stylesheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <div id="wrapper">
   
