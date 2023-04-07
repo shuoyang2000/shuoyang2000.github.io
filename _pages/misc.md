@@ -13,8 +13,9 @@ Academic Services
 -----
 * **Reviewer** :   
   * American Control Conference
-  * Nonlinear Analysis: Hybrid Systems  
   * International Conference on Cyber-Physical Systems
+  * IEEE Conference on Decision and Control
+  * Nonlinear Analysis: Hybrid Systems
   * International Journal of System Control and Information Processing
 
 Selected Honors
