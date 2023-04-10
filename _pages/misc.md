@@ -17,7 +17,9 @@ Academic Services
   * International Conference on Learning Representations
   * IEEE Conference on Decision and Control
   * Nonlinear Analysis: Hybrid Systems
-  * International Journal of System Control and Information Processing
+  * IEEE Transactions on Automatic Control
+  * IEEE Transactions on Intelligent Vehicles
+  * etc
 
 Selected Honors
 -----
