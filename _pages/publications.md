@@ -9,6 +9,10 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
+**Multi-agent reinforcement learning guided by signal temporal logic specifications**  
+Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Fei Miao
+*under review* [PDF]
+
 **Safe perception-based control under stochastic sensor uncertainty using conformal prediction**  
 **Shuo Yang**, George J. Pappas, Rahul Mangharam, Lars Lindemann  
 *under review* [[PDF](https://arxiv.org/pdf/2304.00194.pdf)]

@@ -19,11 +19,19 @@ Education
   * School of Electronic Information and Electrical Engineering <span style="float:right">Sept 2017 - June 2021</span>
     * B.Eng in Automation
     * Advisor: Xiang Yin
+
+Internship
+======
+* **Toyota Research Institute** <span style="float:right">Ann Arbor, MI, USA</span>
+  * Future Mobility Research Department <span style="float:right">May 202 - Aug 2023</span>
+    * Research Intern
+    * Advisor: Georgios Fainekos & Bardh Hoxha
 * **Duke University** <span style="float:right">Remote</span>
   * Department of Mechanical Engineering and Materials Science <span style="float:right">June 2020 - Sept 2020</span>
-    * Visiting Student
-    * Advisor: Michael M. Zavlanos
+    * Research Intern
+    * Mentor: Michael M. Zavlanos
 
 Teaching
 ======
+* Teaching Assistant of *Statistics for Data Science* (ESE 5420) <span style="float:right">University of Pennsylvania, Fall 2023</span>
 * Teaching Assistant of *Discrete Mathmatics* <span style="float:right">Shanghai Jiao Tong University, Fall 2020</span>

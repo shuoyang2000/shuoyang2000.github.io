@@ -23,6 +23,7 @@ Academic Services
 
 Selected Honors
 -----
+* 2023, ACC Travel Grant
 * 2021, The Dean's Fellowship from Penn
 * 2021, Solomon M. Swaab Fellowship from Penn
 * 2021, Outstanding Graduate of SJTU
@@ -36,7 +37,7 @@ Hobbies
 * Philosophy (esp. political philosophy)
 * Texas Hold'em 
 * Basketball, Table Tennis, Badminton
-* [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) Fan, [G.E.M.](https://en.wikipedia.org/wiki/G.E.M.) Fan
+* [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) Fan, [Accusefive](https://en.wikipedia.org/wiki/Accusefive) Fan
 * Video Games
 
 Mottos
