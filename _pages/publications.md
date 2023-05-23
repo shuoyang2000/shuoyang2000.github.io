@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Multi-agent reinforcement learning guided by signal temporal logic specifications**  
-Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Fei Miao
+Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Fei Miao 
 *under review* [PDF]
 
 **Safe perception-based control under stochastic sensor uncertainty using conformal prediction**  
