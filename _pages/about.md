@@ -13,7 +13,7 @@ redirect_from:
 * Previsouly, I received my Bachelor's degree at Shanghai Jiao Tong University, where I worked closely with [Xiang Yin](https://xiangyin.sjtu.edu.cn/).
 * During the summer of 2020, I worked with [Michael M. Zavlanos](https://www.michaelmzavlanos.org/), Duke University.
 * I was born in Dec 2000, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
-* My current research mainly lies in the intersection of formal methods, machine learning, and control theory, with the goal of building safe autonomous systems. I also enjoy studying the general area of theoretical computer science. Particularly I am interested in the following several directions:
+* I am broadly interested in formal methods, machine learning, control theory, and statistics. My current research mainly aims to build safe autonomous systems. My recent works mainly come from the following several directions:
   * Learning-based safe planning and control for autonomous system
   * Building formal method guided trustworthy and reliable AI system
   * Formal verification and synthesis for discrete-events systems
