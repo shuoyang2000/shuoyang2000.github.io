@@ -23,4 +23,14 @@ redirect_from:
 
 <div class="image-container"> <img src="../images/miami.JPG" /><div class="image-caption"><h1_hover>Miami</h1_hover><p>Jan 2023</p></div></div>
 
+<div class="image-container"> <img src="../images/SanAntonio2023.JPG" /><div class="image-caption"><h1_hover>San Antonio</h1_hover><p>May 2023</p></div></div>
+
+<div class="image-container"> <img src="../images/SD2023.JPG" /><div class="image-caption"><h1_hover>San Diego</h1_hover><p>June 2023</p></div></div>
+
+<div class="image-container"> <img src="../images/Vegas2023.JPG" /><div class="image-caption"><h1_hover>Las Vegas</h1_hover><p>July 2023</p></div></div>
+
+<div class="image-container"> <img src="../images/Antelope2023.JPG" /><div class="image-caption"><h1_hover>Antelope Canyon</h1_hover><p>July 2023</p></div></div>
+
+<div class="image-container"> <img src="../images/Horseshoe2023.JPG" /><div class="image-caption"><h1_hover>Horseshoe Bend</h1_hover><p>July 2023</p></div></div>
+
 </div>
