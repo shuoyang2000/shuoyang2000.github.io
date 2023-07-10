@@ -15,6 +15,7 @@ Academic Services
   * American Control Conference
   * International Conference on Cyber-Physical Systems
   * International Conference on Learning Representations
+  * Conference on Neural Information Processing Systems
   * IEEE Conference on Decision and Control
   * Nonlinear Analysis: Hybrid Systems
   * IEEE Transactions on Automatic Control
