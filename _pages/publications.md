@@ -13,13 +13,13 @@ redirect_from:
 Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Fei Miao  
 *under review* [PDF]
 
-**Safe perception-based control under stochastic sensor uncertainty using conformal prediction**  
-**Shuo Yang**, George J. Pappas, Rahul Mangharam, Lars Lindemann  
-*under review* [[PDF](https://arxiv.org/pdf/2304.00194.pdf)]
-
 **MEGA-DAgger: Imitation learning with multiple imperfect experts**  
 Xiatao Sun\*, **Shuo Yang**\*, Rahul Mangharam  
 *under review* [[PDF](https://arxiv.org/pdf/2303.00638.pdf)][[video](https://youtu.be/pYQiPSHk6dU)]
+
+**Safe perception-based control under stochastic sensor uncertainty using conformal prediction**  
+**Shuo Yang**, George J. Pappas, Rahul Mangharam, Lars Lindemann  
+*IEEE Conference on Decision and Control (CDC) 2023* [[PDF](https://arxiv.org/pdf/2304.00194.pdf)] (**invited paper**)
 
 **You don’t know when I will arrive: unpredictable controller synthesis for temporal logic tasks**  
 Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin  
@@ -47,7 +47,7 @@ Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Man
 
 **Secure-by-construction optimal path planning for linear temporal logic tasks**  
 **Shuo Yang**, Xiang Yin, Shaoyuan Li and Majid Zamani  
-*59th IEEE Conference on Decision and Control (CDC) 2020* [[PDF](https://shuoyang2000.github.io/files/CDC-Yang.pdf)][[IEEE](https://ieeexplore.ieee.org/document/9304153)] [[slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)]
+*IEEE Conference on Decision and Control (CDC) 2020* [[PDF](https://shuoyang2000.github.io/files/CDC-Yang.pdf)][[IEEE](https://ieeexplore.ieee.org/document/9304153)] [[slides](https://shuoyang2000.github.io/files/CDC20_slides.pdf)]
 
 
 
