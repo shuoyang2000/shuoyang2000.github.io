@@ -27,11 +27,11 @@ Yu Chen\*, **Shuo Yang**\*, Rahul Mangharam, Xiang Yin
 
 **Towards explainability in modular autonomous vehicle software**  
 Hongrui Zheng\*, Zirui Zang\*, **Shuo Yang**\*, Rahul Mangharam  
-*IEEE Intelligent Vehicles Symposium (IV) 2023* [PDF]
+*IEEE Intelligent Vehicles Symposium (IV) 2023* [[PDF](https://arxiv.org/pdf/2212.00544)][[IEEE](https://ieeexplore.ieee.org/document/10186720)]
 
 **A benchmark comparison of imitation learning-based control policies for autonomous racing**  
 Xiatao Sun, Mingyan Zhou, Zhijun Zhuang, **Shuo Yang**, Johannes Betz, Rahul Mangharam  
-*IEEE Intelligent Vehicles Symposium (IV) 2023* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)]
+*IEEE Intelligent Vehicles Symposium (IV) 2023* [[PDF](https://arxiv.org/pdf/2209.15073.pdf)][[IEEE](https://ieeexplore.ieee.org/document/10186780)]
 
 **Differentiable safe controller design through control barrier functions**  
 **Shuo Yang**\*, Shaoru Chen\*, Victor M. Preciado, Rahul Mangharam  
