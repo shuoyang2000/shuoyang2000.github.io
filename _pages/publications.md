@@ -58,3 +58,6 @@ Thesis
 Shuo Yang, Advised by Xiang Yin  
 *Outstanding Bachelor's Thesis of SJTU (top 1%)*
 
+Patent
+======
+

@@ -22,9 +22,9 @@ Education
 
 Internship
 ======
-* **Toyota Research Institute** <span style="float:right">Ann Arbor, MI, USA</span>
+* **Toyota Research Institute of North America** <span style="float:right">Ann Arbor, MI, USA</span>
   * Future Mobility Research Department <span style="float:right">May 2023 - Aug 2023</span>
-    * Research Intern
+    * Research Scientist Intern
     * Mentors: Georgios Fainekos & Bardh Hoxha
 * **Duke University** <span style="float:right">Remote</span>
   * Department of Mechanical Engineering and Materials Science <span style="float:right">June 2020 - Sept 2020</span>
