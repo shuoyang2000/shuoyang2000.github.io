@@ -33,4 +33,6 @@ redirect_from:
 
 <div class="image-container"> <img src="../images/Horseshoe2023.jpg" /><div class="image-caption"><h1_hover>Horseshoe Bend</h1_hover><p>July 2023</p></div></div>
 
+<div class="image-container"> <img src="../images/AnnArbor2023.jpg" /><div class="image-caption"><h1_hover>Ann Arbor</h1_hover><p>Aug 2023</p></div></div>
+
 </div>
