@@ -13,10 +13,11 @@ Academic Services
 -----
 * **Reviewer** :   
   * American Control Conference (ACC)
+  * IEEE Conference on Decision and Control (CDC)
   * International Conference on Cyber-Physical Systems (ICCPS)
   * International Conference on Learning Representations (ICLR)
   * Advances in Neural Information Processing Systems (NeurIPS)
-  * IEEE Conference on Decision and Control (CDC)
+  * AAAI Conference on Artificial Intelligence (AAAI)
   * Nonlinear Analysis: Hybrid Systems (NAHS)
   * IEEE Transactions on Automatic Control (TAC)
   * IEEE Transactions on Intelligent Vehicles (TIV)
