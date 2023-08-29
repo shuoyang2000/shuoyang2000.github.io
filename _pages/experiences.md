@@ -35,5 +35,5 @@ Teaching
 ======
 * Teaching Assistant of *Linear Systems Theory* (ESE 5000) <span style="float:right">University of Pennsylvania, Fall 2023</span>
 * Teaching Assistant of *Statistics for Data Science* (ESE 5420) <span style="float:right">University of Pennsylvania, Fall 2023</span>
-* Teaching Assistant of *Discrete Mathmatics* <span style="float:right">SJTU, Fall 2020</span>
+* Teaching Assistant of *Discrete Math* <span style="float:right">SJTU, Fall 2020</span>
 * Lecturer of *Math Competition* <span style="float:right">High School Affiliated to SJTU, Summer 2018</span>
