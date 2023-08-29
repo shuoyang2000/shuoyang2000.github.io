@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Talks"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 redirect_from:
