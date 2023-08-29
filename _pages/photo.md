@@ -1,10 +1,10 @@
 ---
 layout: archive
-#title: "Photo"
-permalink: /photo/
+#title: "Gallery"
+permalink: /gallery/
 author_profile: true
 redirect_from:
-  - /photos
+  - /gallery
 ---
 
 {% include base_path %}
