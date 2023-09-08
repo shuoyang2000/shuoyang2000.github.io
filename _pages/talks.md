@@ -9,7 +9,10 @@ redirect_from:
 (Slides are sharable upon request)
 {% include base_path %}
 
-1. University of Michigan, Ann Arbor, July 2023  
+1. University of Pennsylvania (*FM & ML Seminar*), Philadelphia, Sept 2023  
+**Formal Safety Guarantees for Learning-Enabled Autonomous Systems** 
+
+1. University of Michigan, Ann Arbor, July 2023 (Host: Prof. Necmiye Ozay)  
 **Safe Learning-Based Control for Autonomous Systems**  
 
 1. American Control Conference, San Diego, May 2023  
@@ -24,7 +27,7 @@ redirect_from:
 1. RTSS Explainability Workshop, remote, Dec 2022  
 **Towards Explainability in Modular Autonomous Vehicle Software**  
 
-1. University of Michigan, remote, Nov 2022  
+1. University of Michigan, remote, Nov 2022 (Host: Prof. Max Li)  
 **Opacity in Discrete Event Systems: Notions, Algorithms, and Applications**  
 
 1. 59th IEEE Conference on Decision and Control (CDC), remote, Dec 2020  

@@ -20,6 +20,7 @@ Academic Services
   * AAAI Conference on Artificial Intelligence (AAAI)
   * Nonlinear Analysis: Hybrid Systems (NAHS)
   * IEEE Transactions on Automatic Control (TAC)
+  * IEEE Robotics and Automation Letters (RA-L)
   * IEEE Transactions on Intelligent Vehicles (TIV)
   * etc
 
