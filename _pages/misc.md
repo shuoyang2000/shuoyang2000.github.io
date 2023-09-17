@@ -11,12 +11,16 @@ redirect_from:
 
 Academic Services
 -----
-* **Reviewer** :
+* **Reviewer** :   
+  * American Control Conference (ACC)
+  * IEEE Conference on Decision and Control (CDC)
   * International Conference on Cyber-Physical Systems (ICCPS)
   * International Conference on Learning Representations (ICLR)
   * Advances in Neural Information Processing Systems (NeurIPS)
   * AAAI Conference on Artificial Intelligence (AAAI)
   * IEEE Transactions on Automatic Control (TAC)
+  * IEEE Robotics and Automation Letters (RA-L)
+  * IEEE Control Systems Letters (L-CSS)
   * IEEE Transactions on Intelligent Vehicles (TIV)
   * Nonlinear Analysis: Hybrid Systems (NAHS)
   * American Control Conference (ACC)

@@ -5,13 +5,13 @@ main:
     url: /experiences/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications/ 
+
+  - title: "Talks"
+    url: /talks/  
 
   - title: "Misc"
-    url: /misc/   
-
-  #- title: "Talks"
-  #  url: /talks/     
+    url: /misc/     
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -19,8 +19,8 @@ main:
   #- title: "Blog Posts"
   #  url: /posts/
 
-  - title: "Photo"
-    url: /photo/
+  - title: "Gallery"
+    url: /gallery/
     
   #- title: "Guide"
     #url: /markdown/
