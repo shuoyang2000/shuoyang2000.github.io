@@ -9,8 +9,12 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
+**Learning Adaptive Safety for Multi-Agent Systems**  
+Luigi Berducci, **Shuo Yang**, Rahul Mangharam, Radu Grosu  
+*under review* [PDF][video][code]
+
 **Multi-agent reinforcement learning guided by signal temporal logic specifications**  
-Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Fei Miao  
+Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Rahul Mangharam, Fei Miao  
 *under review* [PDF]
 
 **MEGA-DAgger: Imitation learning with multiple imperfect experts**  
