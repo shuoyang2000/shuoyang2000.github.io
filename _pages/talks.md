@@ -9,8 +9,8 @@ redirect_from:
 (Slides are sharable upon request)
 {% include base_path %}
 
-1. University of Pennsylvania (*FM & ML Seminar*), Philadelphia, Sept 2023  
-**Formal Safety Guarantees for Learning-Enabled Autonomous Systems** 
+1. University of Pennsylvania (*FM & ML Seminar*), Philadelphia, Sept 2023 (Host: Prof. Eric Wong)  
+**Safe Learning-Enabled Autonomous Systems** 
 
 1. University of Michigan, Ann Arbor, July 2023 (Host: Prof. Necmiye Ozay)  
 **Safe Learning-Based Control for Autonomous Systems**  
