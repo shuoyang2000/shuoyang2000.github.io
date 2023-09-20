@@ -23,8 +23,7 @@ Academic Services
   * IEEE Control Systems Letters (L-CSS)
   * IEEE Transactions on Intelligent Vehicles (TIV)
   * Nonlinear Analysis: Hybrid Systems (NAHS)
-  * American Control Conference (ACC)
-  * IEEE Conference on Decision and Control (CDC)
+  * IROS 2023 Workshop on Multi-agent Dynamic Games (MAD-Games)
   * etc
 
 Selected Honors
