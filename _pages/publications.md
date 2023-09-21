@@ -11,7 +11,7 @@ redirect_from:
 
 **Learning Adaptive Safety for Multi-Agent Systems**  
 Luigi Berducci, **Shuo Yang**, Rahul Mangharam, Radu Grosu  
-*under review* [[PDF](https://arxiv.org/abs/2309.10657)][video][code]
+*under review* [[PDF](https://arxiv.org/abs/2309.10657)][[video](https://www.youtube.com/watch?v=vrIJUp1MS9A)][[code](https://github.com/luigiberducci/learning_adaptive_safety)]
 
 **Multi-agent reinforcement learning guided by signal temporal logic specifications**  
 Jiangwei Wang, **Shuo Yang**, Ziyan An, Songyang Han, Zhili Zhang, Meiyi Ma, Rahul Mangharam, Fei Miao  
