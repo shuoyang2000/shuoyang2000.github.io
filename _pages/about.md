@@ -17,5 +17,6 @@ redirect_from:
   * Learning-based safe planning and control for autonomous system
   * Building formal method guided trustworthy and reliable AI system
   * Formal verification and synthesis for discrete-events systems
+* Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) and let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu    
 * My Chinese name is 杨烁 (y&aacute;ng shu&ograve;), where 杨 (y&aacute;ng) is my family name and 烁 (shu&ograve;) is my given name. 
-* Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) and let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu
+* My Erdös Number is 4.
