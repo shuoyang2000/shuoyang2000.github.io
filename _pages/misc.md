@@ -23,7 +23,9 @@ Academic Services
   * IEEE Control Systems Letters (L-CSS)
   * IEEE Transactions on Intelligent Vehicles (TIV)
   * Nonlinear Analysis: Hybrid Systems (NAHS)
+  * IEEE International Conference on Robotics and Automation (ICRA)
   * IROS 2023 Workshop on Multi-agent Dynamic Games (MAD-Games)
+  * NeurIPS 2023 AI for Science Workshop (AI4Science)
   * etc
 
 Selected Honors
