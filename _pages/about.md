@@ -13,9 +13,9 @@ redirect_from:
 * Previsouly, I received my Bachelor's degree at Shanghai Jiao Tong University, where I worked closely with [Xiang Yin](https://xiangyin.sjtu.edu.cn/).
 * During the summer of 2020, I worked with [Michael M. Zavlanos](https://www.michaelmzavlanos.org/), Duke University.
 * I was born in Dec 2000, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
-* I am broadly interested in formal methods, machine learning, control theory, and statistics. My current research mainly aims to build safe autonomous systems. My recent works mainly come from the following several directions:
+* I am broadly interested in formal methods, machine learning, control theory, algorithmic game theory, and statistics, with their applications to robotic and multi-agents systems. My past works mainly cover the following several directions:
   * Learning-based safe planning and control for robotic system
-  * Building formal method guided trustworthy and reliable AI system
+  * Building formal method guided trustworthy and reliable A.I. system
   * Formal verification and synthesis for discrete-events systems
 * Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) and let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu    
 * My Chinese name is 杨烁 (y&aacute;ng shu&ograve;), where 杨 (y&aacute;ng) is my family name and 烁 (shu&ograve;) is my given name. 
