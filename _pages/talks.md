@@ -9,7 +9,7 @@ redirect_from:
 (Slides are sharable upon request)
 {% include base_path %}
 
-1. University of Pennsylvania (*ASSET Seminar*), Philadelphia, Sept 2023, w/ Prof. Rahul Mangharam  
+1. University of Pennsylvania (*ASSET Seminar*), Philadelphia, Sept 2023, w/ Prof. Rahul Mangharam (Host: Prof. Rajeev Alur)   
 **Safety through Agility: Safe and Performant Control for Learning-Enabled Autonomous Systems** 
 
 1. University of Pennsylvania (*FM & ML Seminar*), Philadelphia, Sept 2023 (Host: Prof. Eric Wong)  

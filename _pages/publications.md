@@ -9,6 +9,10 @@ redirect_from:
 (\* Equal contribution)
 {% include base_path %}
 
+**Safe Control Synthesis for Hybrid Systems through Local Control Barrier Functions**  
+**Shuo Yang**, Mitchell Black, Georgios Fainekos, Bardh Hoxha, Hideki Okamoto, Rahul Mangharam  
+*under review* [[PDF](https://arxiv.org/abs/2311.17201)]
+
 **Learning Adaptive Safety for Multi-Agent Systems**  
 Luigi Berducci, **Shuo Yang**, Rahul Mangharam, Radu Grosu  
 *under review* [[PDF](https://arxiv.org/abs/2309.10657)][[video](https://www.youtube.com/watch?v=vrIJUp1MS9A)][[code](https://github.com/luigiberducci/learning_adaptive_safety)]
