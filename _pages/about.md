@@ -19,4 +19,4 @@ redirect_from:
   * Formal verification and synthesis for discrete-events systems
 * Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) and let me know if you want to collaborate with me. You could contact me via email: yangs1 AT seas DOT upenn DOT edu    
 * My Erdös Number is 4. 
-* I am interested in entrepreneurship. I aspire to create tangible practical significance through my research endeavors. I am a Global Young PhD Fellow of [Linear Capital (线性资本)](https://www.linear.vc/) since Dec 2023. 
+* I am interested in entrepreneurship. I aspire to create practical significance through my research endeavors. I am a Global Young PhD Fellow of [Linear Capital (线性资本)](https://www.linear.vc/) since Dec 2023. 
